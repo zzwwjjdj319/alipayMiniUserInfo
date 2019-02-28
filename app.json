@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/info/info"
+  ],
+  "window": {
+    "defaultTitle": "用户信息获取",
+    "titleBarColor": "#e3b7b7"
+  }
+}
